@@ -3,7 +3,7 @@
 <h3 align="center">A Front-end Web Developer and Designer!</h3>
 
 
-  <img alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" />
+ 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=black-wolf007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -16,7 +16,7 @@
 </p>
 
 ---
-<img alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" />
+
 - 🔭 I’m currently working on **WhatsApp Clone**
 - 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate on **Android Project**
