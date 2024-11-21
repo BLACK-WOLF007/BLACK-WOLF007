@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **BLACK-WOLF007/BLACK-WOLF007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
