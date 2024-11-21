@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Fauzan Ali</h1>
 <h3 align="center">A Front-end Web Developer and Designer!</h3>
 
-<div align="center">
+
   <img alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" />
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=black-wolf007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
