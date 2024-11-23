@@ -16,7 +16,7 @@
 </p>
 
 ---
-
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 - 🔭 I’m currently working on **WhatsApp Clone**
 - 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate on **Android Project**
