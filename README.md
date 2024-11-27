@@ -91,7 +91,7 @@
 </p>
 
 ---
-
+<!--
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=black-wolf007&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="Top Languages" />
 </p>
@@ -100,7 +100,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=black-wolf007" alt="GitHub Streak Stats" />
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BLACK-WOLF007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
