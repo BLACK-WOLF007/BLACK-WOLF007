@@ -11,7 +11,7 @@
   
   ###
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-200%2B-brightgreen" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-180%2B-brightgreen" alt="Profile Views" />
 </div>
 
 <p align="center">
