@@ -11,8 +11,9 @@
   
   ###
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-180%2B-brightgreen" alt="Profile Views" />
+  <img src="https://counterapi.com/serve/BLACK-WOLF007/200" alt="Profile Views Counter" />
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=black-wolf007&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
