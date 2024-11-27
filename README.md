@@ -172,7 +172,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRsb3RxNTg4NXZicDRmdjAzdXlzNTczbHo2ZjhzNTF1Y3R0NzExeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp"  />
+<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRsb3RxNTg4NXZicDRmdjAzdXlzNTczbHo2ZjhzNTF1Y3R0NzExeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp"  />
 
 ###
 
@@ -183,7 +183,7 @@
   <a href="https://www.instagram.com/fauzanali2107/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="fauzanali2107@gmail.com" target="_blank">
+  <a href="mailto:fauzanali2107@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/fauzan-ali2107/" target="_blank">
