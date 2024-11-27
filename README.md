@@ -16,6 +16,14 @@
 </p>
 
 ---
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/BLACK-WOLF007/BLACK-WOLF007/output/snake.svg" alt="Snake animation" />
+
+###
+
 <img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRsb3RxNTg4NXZicDRmdjAzdXlzNTczbHo2ZjhzNTF1Y3R0NzExeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp"  />
 
 - 🔭 I’m currently working on **WhatsApp Clone**
