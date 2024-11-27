@@ -188,13 +188,6 @@
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BLACK-WOLF007/BLACK-WOLF007/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31xftiyrnimvlih2anl5jpdjtmva">
