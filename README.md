@@ -35,7 +35,7 @@
 
 <img src="https://raw.githubusercontent.com/BLACK-WOLF007/BLACK-WOLF007/output/snake.svg" alt="Snake animation" />
 
-###
+---
 <!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/fauzan-ali2107/" target="blank">
@@ -115,7 +115,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BLACK-WOLF007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
 <div align="center">
   <a href="https://www.youtube.com/@FauzanAli2107" target="_blank">
@@ -132,7 +132,7 @@
   </a>
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -188,7 +188,7 @@
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
 </div>
 
-
+---
 <div align="center">
   <a href="https://open.spotify.com/user/31xftiyrnimvlih2anl5jpdjtmva">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xftiyrnimvlih2anl5jpdjtmva&count=5&unique=false" alt="Spotify recently played"  />
