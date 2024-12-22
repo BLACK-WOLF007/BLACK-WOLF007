@@ -1,5 +1,5 @@
 ![logo](https://github.com/BLACK-WOLF007/BLACK-WOLF007/blob/main/Fauzan%20Git%20Hub%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm Fauzan Ali</h1>
+<h1 align="center">Hi 👋, This is Fauzan Ali</h1>
 <h3 align="center">A Front-end Web Developer and Designer!</h3>
 
 
