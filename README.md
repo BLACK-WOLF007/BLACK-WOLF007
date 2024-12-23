@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on **WhatsApp Clone**
 - 🌱 I’m currently learning **Flutter**
-- 👯 I’m looking to collaborate on **Android Project**
+- 👯 I’m looking to collaborate on **Front-End Project**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/BLACK-WOLF007)
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/fauzan-ali2107/)
 - 💬 Ask me about **Front-end Development**
