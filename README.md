@@ -32,7 +32,7 @@
 - 💬 Ask me about **Front-end Development**
 - 📫 Reach me at **fauzanali2107@gmail.com**
 - 📄 Know more about me at [My Portfolio](http://fauzancreatives.42web.io/)
-- ⚡ Fun fact: **I believe every problem has a solution.... sometimes it’s just Ctrl+Z!**
+- ⚡ Fun fact: **I believe every problem has a solution..... sometimes it’s just Ctrl+Z!**
 
 ---
 ###
