@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate on **Front-End Project**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/BLACK-WOLF007)
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/fauzan-ali2107/)
-- 💬 Ask me about **Front-end Development**
+- 💬 Ask me about **Front-end Development/ Designing**
 - 📫 Reach me at **fauzanali2107@gmail.com**
 - 📄 Know more about me at [My Portfolio](http://fauzancreatives.42web.io/)
 - ⚡ Fun fact: **I believe every problem has a solution.... sometimes it’s just Ctrl+Z!**
